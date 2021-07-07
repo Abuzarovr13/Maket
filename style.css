@@ -30,13 +30,6 @@ body{
     /* padding-bottom: 27.12px; */
     display: inline-block;   
 }
-.background-img{
-    
-    margin: 0;
-    padding-bottom: 56px;
-    max-width: 1440px;
-    max-height: 619px;
-}
 
 .head-background{
     display: flex;
